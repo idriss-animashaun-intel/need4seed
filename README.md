@@ -1,3 +1,0 @@
-# SuperCPG
-
-Supersed Plist Generator
