@@ -6,6 +6,7 @@ from tkinter.messagebox import showinfo
 from tkinter import *
 import webbrowser
 import os
+import Update_Launcher
 
 current_directory = os.getcwd()
 print(current_directory)
